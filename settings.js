@@ -17,7 +17,7 @@ module.exports = {
   ACCESS_CODE_EXPIRY: 5 * 60 * 1000,
 
   // Server port (auto-set by Heroku)
-  PORT: process.env.PORT || 3000,
+  PORT: process.env.PORT || 2541,
 
   // Your GitHub username (must have forked the repo)
   GITHUB_USERNAME: process.env.GITHUB_USERNAME || '',
